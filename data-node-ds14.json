@@ -190,7 +190,7 @@
       "properties": {
         "publicIPAllocationMethod": "Dynamic",
         "dnsSettings": {
-          "domainNameLabel": "[concat(parameters('dnsNamePrefix'), 'vldedn', copyIndex())]"
+          "domainNameLabel": "[concat(parameters('dnsNamePrefix'), 'vldn', copyIndex())]"
         }
       }
     },

@@ -260,7 +260,7 @@
       "properties": {
         "publicIPAllocationMethod": "Dynamic",
         "dnsSettings": {
-          "domainNameLabel": "[concat(parameters('dnsNamePrefix'), 'vldemn', copyIndex())]"
+          "domainNameLabel": "[concat(parameters('dnsNamePrefix'), 'vlmn', copyIndex())]"
         }
       }
     },
