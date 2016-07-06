@@ -117,14 +117,14 @@
     },
     "numberOfDataNodes": {
       "type": "int",
-      "defaultValue": 5,
+      "defaultValue": 6,
       "metadata": {
         "description": "Number of data nodes for Prod (defaults to 3)"
       }
     },
     "numberOfMasterNodes": {
       "type": "int",
-      "defaultValue": 2,
+      "defaultValue": 3,
       "metadata": {
         "description": "Number of master nodes for Prod (defaults to 2)"
       }
