@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.1",
   "parameters": {
     "storageAccountPrefix": {
-      "value": "cauk0"
+      "value": "cauk"
     },
     "adminPassword": {
       "value": "kR27U9Pc"
@@ -15,7 +15,7 @@
       "value": 2
     },
     "dnsNamePrefix": {
-      "value": "caukwedi"
+      "value": "cawedi"
     },
     "location": {
       "value": "westeurope"

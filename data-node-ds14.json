@@ -36,11 +36,11 @@
   "variables": {
     "masterIP":"[parameters('networkSpec').masterIP]",
     "workerIP":"[parameters('networkSpec').workerIP]",
-    "vmName": "[concat(parameters('dnsNamePrefix'), 'vldedn')]",
-    "nicName": "[concat(parameters('dnsNamePrefix'), 'nidedn')]",
-    "publicIPAddressName": "[concat(parameters('dnsNamePrefix'), 'pidedn')]",
-    "storageAccountName": "[concat(parameters('dnsNamePrefix'), 'sadedn')]",
-    "securityGroupName": "[concat(parameters('dnsNamePrefix'), 'ngdedn')]"
+    "vmName": "[concat(parameters('dnsNamePrefix'), 'vldn')]",
+    "nicName": "[concat(parameters('dnsNamePrefix'), 'nidn')]",
+    "publicIPAddressName": "[concat(parameters('dnsNamePrefix'), 'pidn')]",
+    "storageAccountName": "[concat(parameters('dnsNamePrefix'), 'sadn')]",
+    "securityGroupName": "[concat(parameters('dnsNamePrefix'), 'ngdn')]"
   },
   "resources": [
     {
