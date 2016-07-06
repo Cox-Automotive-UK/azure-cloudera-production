@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "Cloudera Infrastructure",
+  "description": "This template deploys multi VM Cloudera cluster infrastructure ONLY, with N nodes running Cloudera Manager and N data nodes.",
+  "summary": "This template deploys multi VM Cloudera cluster infrastructure ONLY on CentOS 6.5",
+  "githubUsername": "cox-automotive-uk",
+  "dateUpdated": "2016-07-06"
+}
