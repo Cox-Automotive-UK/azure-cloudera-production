@@ -6,13 +6,13 @@
       "value": "cawedi"
     },
     "adminPassword": {
-      "value": "kR27U9Pc1234"
+      "value": ""
     },
     "numberOfDataNodes": {
-      "value": 6
+      "value": 5
     },
     "numberOfMasterNodes": {
-      "value": 3
+      "value": 4
     },
     "dnsNamePrefix": {
       "value": "cawedi"
